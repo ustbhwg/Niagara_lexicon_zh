@@ -1,0 +1,23 @@
+#
+#Wed Nov 22 16:56:35 CST 2017
+trigger.randomization=\u968F\u673A
+override.min15=15\u5206\u949F
+trigger.timeOfDay=\u5F53\u65E5\u65F6\u95F4
+trigger.startTime=\u5F00\u59CB\u65F6\u95F4
+override.min1=1\u5206\u949F
+trigger.daily=\u6BCF\u5929
+override.value=\u5F3A\u5236\u503C
+trigger.interval=\u95F4\u9694
+trigger.endTime=\u7ED3\u675F\u65F6\u95F4
+def=\u9ED8\u8BA4
+trigger.manual=\u624B\u52A8
+override.custom=\u81EA\u5B9A\u4E49
+override.perm=\u6C38\u4E45
+trigger.enabled=\u7981\u7528
+override.duration=\u5F3A\u5236\u5468\u671F
+trigger.disabled=\u542F\u7528
+trigger.daysOfWeek=\u6BCF\u5468\u4E2D\u7684\u5929
+override.min30=30\u5206\u949F
+override.hour3=3\u5C0F\u65F6
+override.hour2=2\u5C0F\u65F6
+override.hour1=1\u5C0F\u65F6

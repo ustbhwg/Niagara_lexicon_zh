@@ -1,0 +1,6 @@
+#
+#Thu Dec 14 14:25:19 CST 2017
+SerialPortPlatformServiceQnx.displayName=\u4E32\u53E3\u5E73\u53F0\u670D\u52A1 Qnx
+platformService.comm.qnx.missingLibrary=\u627E\u4E0D\u5230 libtridcomm.so
+SerialPortPlatformService.description=\u4E32\u53E3\u5E73\u53F0\u670D\u52A1
+SerialPortQnx.displayName=\u4E32\u53E3 Qnx

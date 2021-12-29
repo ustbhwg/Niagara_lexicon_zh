@@ -1,0 +1,8 @@
+#
+#Thu Jan 25 11:44:57 CST 2018
+ITableToPdf.displayName=\u8868\u683C\u5230PDF
+pageSize.legal.displayName=\u5408\u6CD5
+pageSize.orient.landscape=\u98CE\u666F
+pageSize.orient.portrait=\u8096\u50CF
+pageSize.letter.displayName=\u4FE1\u7EB8
+PropertySheetToPdf.displayName=\u5C5E\u6027\u9875\u5230PDF

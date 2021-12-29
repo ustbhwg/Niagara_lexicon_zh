@@ -1,0 +1,27 @@
+#
+#Wed Dec 13 20:44:30 CST 2017
+VykonIOAppsPaletteSideBar.displayName=VykonIO \u5E94\u7528\u7A0B\u5E8F\u9762\u677F
+VykonIOConfigFolderManager.displayName=VykonIO \u914D\u7F6E\u6587\u4EF6\u5939\u7BA1\u7406\u5668
+temptable.cmd.upload.description=\u4E0A\u4F20\u6E29\u5EA6\u9879
+temptable.cmd.upload.label=\u4E0A\u4F20
+VykonIOConfigFolder.displayName=VykonIO \u914D\u7F6E\u6587\u4EF6\u5939
+VykonIOAppsFolderManager.displayName=VykonIO \u5E94\u7528\u6587\u4EF6\u5939\u7BA1\u7406\u5668
+temptable.cmd.default.description=\u5C06\u6E29\u5EA6\u8868\u91CD\u7F6E\u4E3A\u9ED8\u8BA4\u503C
+temptable.cmd.edit.description=\u7F16\u8F91\u6E29\u5EA6\u9879
+VykonIOAppsFolder.displayName=VykonIO \u5E94\u7528\u6587\u4EF6\u5939
+temptable.cmd.add.label=\u6DFB\u52A0
+VykonIOConfigDeviceExt.displayName=VykonIO \u914D\u7F6E\u8BBE\u5907\u6269\u5C55
+VykonIOConfigManager.displayName=VykonIO \u914D\u7F6E\u7BA1\u7406
+VykonIOAppsWireSheet.displayName=VykonIO \u5E94\u7528\u7EBF\u8868
+temptable.cmd.default.label=\u7F3A\u7701
+temptable.cmd.selection.description=\u88681
+VykonIOTempTableObj.displayName=VykonIO \u6E29\u5EA6\u8868
+temptable.cmd.add.description=\u6DFB\u52A0\u6E29\u5EA6\u9879
+VykonIOConfigObjPropertySheet.displayName=VykonIO \u914D\u7F6E\u5BF9\u8C61\u5C5E\u6027\u8868
+temptable.cmd.save.label=\u4FDD\u5B58
+temptable.cmd.del.description=\u5220\u9664\u6E29\u5EA6\u9879
+VykonIOAppsDeviceExt.displayName=VykonIO \u5E94\u7528\u8BBE\u5907\u6269\u5C55
+VykonIOConfigObjFolderManager.displayName=VykonIO \u914D\u7F6E\u5BF9\u8C61\u6587\u4EF6\u5939\u7BA1\u7406\u5668
+temptable.cmd.del.label=\u5220\u9664
+temptable.cmd.save.description=\u4FDD\u5B58\u6E29\u5EA6\u9879
+temptable.cmd.edit.label=\u7F16\u8F91

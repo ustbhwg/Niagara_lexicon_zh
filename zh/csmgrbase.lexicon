@@ -1,0 +1,23 @@
+#
+#Thu Dec 14 14:46:12 CST 2017
+BCsMgrStringFE.add.description=\u6DFB\u52A0\u9879\u76EE\u5230\u5F53\u524D\u5217\u8868
+edit.label=\u7F16\u8F91\u7EC4\u6761\u76EE
+BCsMgrStringFE.delete.label=\u4ECE\u5F53\u524D\u5217\u8868\u5220\u9664\u9879\u76EE
+sendDownloadEntry.label=\u53D1\u9001\u4E0B\u8F7D\u6761\u76EE
+BCsMgrStringFE.delete.description=\u4ECE\u5F53\u524D\u5217\u8868\u5220\u9664\u9879\u76EE
+BCsMgrStringFE.add.errorMessage=\u9879\u76EE\u6CA1\u6709\u6DFB\u52A0\u5230\u5F53\u524D\u5217\u8868
+BCsMgrStringFE.add.label=\u6DFB\u52A0\u9879\u76EE\u5230\u5F53\u524D\u5217\u8868
+BCsMgrStringFE.delete.confirmMessage=\u662F\u5426\u5220\u9664\u9009\u5B9A\u9879\u76EE\uFF1F
+notificationClass.update=\u5E94\u7528
+BCsMgrStringFE.all.displayName=\u6240\u6709\u9879\u76EE\u5217\u8868
+BCsMgrStringFE.add.errorTitle=\u9519\u8BEF
+makeDownloadEntry.label=\u5236\u4F5C\u4E0B\u8F7D\u6761\u76EE
+notificationClass.delete=\u5220\u9664
+notificationClass.new=\u65B0\u5EFA
+CsReqCmd.displayName=Cs\u8BF7\u6C42\u547D\u4EE4
+BCsMgrStringFE.delete.confirmTitle=\u786E\u8BA4\u5220\u9664
+new.label=\u5236\u4F5C\u7EC4\u6761\u76EE
+BCsMgrStringFE.delete.dialogTitle=\u5220\u9664\u72B6\u6001
+CsRspValue.displayName=CsRsp\u503C
+notificationClass.modify=\u4FEE\u6539
+BCsMgrStringFE.current.displayName=\u5F53\u524D\u9879\u76EE\u5217\u8868

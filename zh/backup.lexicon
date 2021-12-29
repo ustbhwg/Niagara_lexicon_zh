@@ -1,0 +1,21 @@
+#
+#Wed Jan 24 11:07:28 CST 2018
+BackupManager.displayName=\u5907\u4EFD\u7BA1\u7406\u5DE5\u5177
+restore.error.unmetDeps=Platform\u4E0D\u7B26\u5408\u5907\u4EFD\u76F8\u5173\u6027\:{0}
+backup.error.badVM=\u4E0D\u80FD\u5907\u4EFDplatform\uFF0CVM \u89C4\u8303\u65E0\u6548\u6216\u7F3A\u5931\:{0}
+restore.error.noManifest=\u65E0\u6548\u7684\u5907\u4EFDdist\u6587\u4EF6\uFF1A\u6CA1\u6709\u4E3B\u540D\u5355
+HxBackupManager.displayName=Hx \u5907\u4EFD\u7BA1\u7406\u5DE5\u5177
+FoxBackupJob.displayName=Fox \u5907\u4EFD\u4EFB\u52A1
+backup.label=\u5907\u4EFD
+restore.error.noDaemonSession=\u672C\u5730 Platform \u8FDB\u7A0B\u4E0D\u53EF\u7528
+BackupRecord.displayName=\u5907\u4EFD\u8BB0\u5F55
+backup.error.badFile=\u751F\u6210\u5907\u4EFD\u6587\u4EF6\u5931\u8D25
+restore.error.invalidName=\u4E0D\u662F\u4E00\u4E2A\u5907\u4EFDdist\u6587\u4EF6
+backup.description=\u5F00\u59CB\u5907\u4EFD
+restore.error.backupNotLocal=\u5907\u4EFDdist\u4E0D\u662F\u4E00\u4E2A\u8FDC\u7A0B\u6587\u4EF6
+BackupManager.error.noBackupService=\u8FDC\u7A0Bstation\u6CA1\u6709 backup service  
+BackupChannel.displayName=\u5907\u4EFD\u901A\u9053
+restore.error.noSurrogate=\u4E0D\u80FD\u901A\u8FC7\u672C\u5730platform\u8FDB\u7A0B\u63A7\u5236station
+BackupService.displayName=\u5907\u4EFD\u670D\u52A1
+backups=\u5907\u4EFD
+backup.error.badNRE=\u4E0D\u80FD\u5907\u4EFDplatform\uFF0CNRE \u89C4\u8303\u65E0\u6548\u4F1A\u7F3A\u5931

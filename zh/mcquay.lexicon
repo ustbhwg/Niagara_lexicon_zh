@@ -1,0 +1,22 @@
+#
+#Thu Dec 14 15:38:13 CST 2017
+McQuayCompressorAlarm1Enum.displayName=McQuay \u538B\u7F29\u673A\u62A5\u8B661\u679A\u4E3E\u578B
+McQuayDeviceFolder.displayName=McQuay \u8BBE\u5907\u6587\u4EF6\u5939
+McQuayUnsolicitedReceive.displayName=McQuay \u4E3B\u52A8\u63A5\u53D7
+McQuayEnum.displayName=McQuay \u679A\u4E3E\u578B
+McQuayCurrentAlarmEnum.displayName=McQuay \u5F53\u524D\u62A5\u8B66\u679A\u4E3E\u578B
+McQuayUnitStatusEnum.displayName=McQuay \u5355\u4F4D\u72B6\u6001\u679A\u4E3E\u578B
+McQuayDevice.displayName=McQuay \u8BBE\u5907
+McQuayPointDeviceExt.displayName=McQuay \u70B9\u8BBE\u5907\u6269\u5C55
+McQuayEnumProxyExt.displayName=McQuay \u679A\u4E3E\u7C7B\u4EE3\u7406\u6269\u5C55
+McQuayMainEnum.displayName=McQuay \u4E3B\u8981\u679A\u4E3E\u578B
+McQuayPointManager.displayName=McQuay \u70B9\u7BA1\u7406\u5668
+McQuayPointFolder.displayName=McQuay \u70B9\u6587\u4EF6\u5939
+McQuayCompressorAlarm2Enum.displayName=McQuay \u538B\u7F29\u673A\u62A5\u8B662\u679A\u4E3E\u578B
+McQuayDeviceManager.displayName=McQuay \u8BBE\u5907\u7BA1\u7406\u5668
+McQuayAnalogProxyExt.displayName=McQuay \u6A21\u62DF\u4EE3\u7406\u6269\u5C55
+McQuayCompressorAlarm3Enum.displayName=McQuay \u538B\u7F29\u673A\u62A5\u8B663\u679A\u4E3E\u578B
+McQuayCompressorAlarm4Enum.displayName=McQuay \u538B\u7F29\u673A\u62A5\u8B664\u679A\u4E3E\u578B
+McQuayBooleanProxyExt.displayName=McQuay \u5E03\u5C14\u578B\u4EE3\u7406\u6269\u5C55
+McQuayNetwork.displayName=McQuay \u7F51\u7EDC
+McQuayProxyExt.displayName=McQuay \u4EE3\u7406\u6269\u5C55

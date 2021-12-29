@@ -1,0 +1,7 @@
+#
+#Tue Dec 12 20:01:53 CST 2017
+VykonIOModbusConfigDeviceExt.displayName=VykonIO Modbus \u914D\u7F6E\u8BBE\u5907\u6269\u5C55
+VykonIoApmModbusAsyncDevice.displayName=Async Device \u5F02\u6B65\u8BBE\u5907
+ModbusTcpGatewayDeviceManagerEx.displayName=Modbus Tcp\u7F51\u5173\u8BBE\u5907\u7BA1\u7406\u5668\u6269\u5C55
+VykonIoApmModbusTcpGatewayDevice.displayName=VykonIO APM Modbus Tcp \u7F51\u5173\u8BBE\u5907
+VykonIoApmModbusTcpDevice.displayName=VykonIO APM Modbus Tcp \u8BBE\u5907

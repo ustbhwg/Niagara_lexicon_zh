@@ -1,0 +1,19 @@
+#
+#Thu Jan 04 15:05:06 CST 2018
+linkHighlighting=\u9AD8\u4EAE Link
+ws.font.bold=\u7C97\u4F53 9pt \u5BF9\u8BDD\u6846
+relationGotoRelation.label=\u8FDB\u5165 Relation
+linkGotoLink.label=\u8FDB\u5165 Link
+ws.pdf.titleBox.font=8pt \u5BF9\u8BDD\u6846
+WireSheet.displayName=\u63A5\u7EBF\u56FE
+linkGoto.label=\u8FDB\u5165\u8FDE\u63A5\u7684\u7EC4\u4EF6
+WireSheetPane.displayName=\u63A5\u7EBF\u56FE\u7A97\u53E3
+ws.pdf.font.small=8pt \u5BF9\u8BDD\u6846
+relationGoto.label=\u8FDB\u5165 Relation \u7EC4\u4EF6
+relationSelection=Relation \u9009\u62E9
+relationHighlighting=\u9AD8\u4EAE Relation
+WireSheetToPdf.displayName=\u5C06WireSheet \u8F6C\u6362\u4E3APDF
+linkSelection=Link \u9009\u62E9
+ws.pdf.font.bold=\u7C97\u4F53 8pt \u5BF9\u8BDD\u6846
+ws.pdf.font.plain=8pt \u5BF9\u8BDD\u6846
+ws.font=9pt \u5BF9\u8BDD\u6846

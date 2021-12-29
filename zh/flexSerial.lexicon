@@ -1,0 +1,9 @@
+#
+#Tue Dec 12 10:51:52 CST 2017
+facets.delimiter=\u5206\u9694\u7B26
+facets.trueText=true \u6587\u672C
+facets.activeValue=\u6709\u6548\u503C
+facets.falseText=false \u6587\u672C
+updateInstances.label=\u66F4\u65B0\u6D88\u606F
+facets.fieldWidth=\u5B57\u6BB5\u5BBD\u5EA6
+facets.inactiveValue=\u65E0\u6548\u503C

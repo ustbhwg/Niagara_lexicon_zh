@@ -1,0 +1,22 @@
+#
+#Mon Dec 04 17:46:09 CST 2017
+electricalDemandLimit.sheddingRequired=\u9700\u8981\u51CF\u8F7D\uFF01
+electricalDemandLimit.demandInputUnavailable=\u9700\u6C42\u8F93\u5165\u4E0D\u53EF\u7528\u3002 \u6CA1\u6709\u9884\u6D4B\u3002
+muxSwitch.invalidSelect=\u65E0\u6548\u7684 Select
+shedControl.shedLevel=\u5F53\u524D\u51CF\u8F7D\u7EA7\u522B \= 
+numericSwitch.invalidInSwitch=\u65E0\u6548\u7684\u8F93\u5165\u5F00\u5173
+electricalDemandLimit.manualInterventionRequired=\u6240\u6709\u8D1F\u8F7D\u5207\u65AD\u3002 \u9700\u8981\u624B\u52A8\u5E72\u9884\uFF01
+electricalDemandLimit.predictionNotEnabled=\u9884\u6D4B\u672A\u542F\u7528\uFF01
+on=\u6253\u5F00
+electricalDemandLimit.projectedDemand=\u9884\u8BA1\u7684\u9700\u6C42\u662F
+shedControl.sheddingLevel=\u51CF\u8F7D\u7EA7\u522B
+booleanSwitch.invalidInSwitch=\u65E0\u6548\u7684\u8F93\u5165\u5F00\u5173
+electricalDemandLimit.restorationInProgress=\u6062\u590D\u8FDB\u884C\u4E2D\u3002
+electricalDemandLimit.allRestored=\u6240\u6709\u8D1F\u8F7D\u6062\u590D\uFF01
+shedControl.restoringLevel=\u6062\u590D\u7EA7\u522B
+shedControl.disabled=\u8BE5\u5BF9\u8C61\u7981\u7528\u51CF\u8F7D\uFF01
+electricalDemandLimit.notEnoughPowerForRestoration=\u6CA1\u6709\u8DB3\u591F\u7684\u7535\u529B\u53EF\u7528\u4E8E\u6062\u590D\u3002
+linkcheck.level6=\u5173\u95ED\u8BA1\u65F6\u5668\u65F6\u4FDD\u7559\u6700\u4F4E6\u7EA7
+off=\u5173\u95ED
+shedControl.allRestored=\u6240\u6709\u8D1F\u8F7D\u6062\u590D\uFF01
+shedControl.allShed=\u6240\u6709\u8D1F\u8F7D\u5207\u65AD

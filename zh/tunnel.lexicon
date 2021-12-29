@@ -1,0 +1,13 @@
+#
+#Thu Dec 14 17:18:06 CST 2017
+TestClient.displayName=\u6D4B\u8BD5\u5BA2\u6237\u7AEF
+TunnelConnection.displayName=\u901A\u9053\u8FDE\u63A5
+ISerialShare.displayName=I \u4E32\u53E3\u5171\u4EAB
+SerialTunnelShare.displayName=\u4E32\u53E3\u901A\u9053\u5171\u4EAB
+TunnelDigestCallbackHandler.displayName=Tunnel Digest \u56DE\u8C03\u5904\u7406\u7A0B\u5E8F
+TunnelService.displayName=\u901A\u9053\u670D\u52A1
+TestTunnel.displayName=\u6D4B\u8BD5\u901A\u9053
+EchoTunnel.displayName=\u56DE\u58F0\u901A\u9053
+SerialTunnel.displayName=\u4E32\u53E3\u901A\u9053\u5171\u4EAB
+Tunnel.displayName=\u901A\u9053
+TunnelCallbackHandler.displayName=\u901A\u9053\u56DE\u8C03\u5904\u7406\u7A0B\u5E8F

@@ -1,0 +1,34 @@
+#
+#Thu Jan 25 11:18:01 CST 2018
+resourceManager.propValue=\u503C
+chart.axis.numeric.error.parse=\u9519\u8BEF\uFF0C\u89E3\u6790\u6570\u503C\uFF1A{0}\u7684numeric\u683C\u5F0F
+Chart.displayName=\u56FE\u8868
+ResourceManager.displayName=\u8D44\u6E90\u7BA1\u7406\u5DE5\u5177
+resourceManager.propKey=\u540D\u79F0
+fixed=\u56FA\u5B9A\u7684
+commands.export.view.description=\u5BFC\u51FA\u5F53\u524Dview\u6216\u5BF9\u8C61
+ResourceManager.memoryUsage=\u5185\u5B58\u4F7F\u7528\u60C5\u51B5\uFF08MB\uFF09
+chart.pane.font=11pt Tahoma
+auto=\u81EA\u52A8
+resourceManager.update=\u66F4\u65B0
+ResourceManagerToPdf.displayName=\u8D44\u6E90\u7BA1\u7406\u5DE5\u5177\u5230PDF
+resourceManager.propTitle=\u8D44\u6E90\u4FE1\u606F
+chart.header.title.font=18pt Tahoma
+rowIndex=\u884C\u7D22\u5F15
+chart.legend.font=11pt Tahoma
+tableColumn=\u8868\u683C\u680F
+resourceManager.pieTitle=\u8D44\u6E90\u5355\u4F4D
+chart.axis.tick.font=11pt Tahoma
+null=\u7A7A
+commands.export.data.label=\u5BFC\u51FA\u6570\u636E
+chart.axis.title.font=bold 12pt Tahoma
+chart.header.subtitle.font=11pt Tahoma
+chart.nothingToExport=\u6CA1\u6709chart\u6570\u636E\u5BFC\u51FA
+resourceManager.chartTitle=\u8D44\u6E90\u76D1\u89C6\u5668
+min=\u6700\u5C0F\u503C
+max=\u6700\u5927\u503C
+chart.err.font=11pt Tahoma
+insufficientArea=\u9519\u8BEF\uFF1A\u6CA1\u6709\u8DB3\u591F\u7684\u5730\u65B9\u663E\u793Achart
+resourceManager.sysTitle=CPU&\u5185\u5B58
+commands.export.data.description=\u5BFC\u51FA\u5F53\u524D\u6570\u636E
+commands.export.view.label=\u5BFC\u51FAview

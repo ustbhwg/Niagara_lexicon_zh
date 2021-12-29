@@ -1,0 +1,26 @@
+#
+#Mon Dec 04 15:13:21 CST 2017
+pointMgr.addGroup.description=\u6DFB\u52A0\u9009\u5B9A\u7EC4
+pointMgr.readWrite=\u8BFB\u5199
+deviceMgr.address=\u5730\u5740
+pointMgr.type=\u7C7B\u578B
+opcServerDiscovery.failureGettingServerListFor=\u83B7\u53D6\u670D\u52A1\u5668\u5217\u8868\u5931\u8D25
+pointMgr.group=\u7EC4
+pointMgr.addGroup.label=\u6DFB\u52A0\u7EC4
+deviceMgr.description=\u63CF\u8FF0
+opcServerDiscovery.alarmsEvents=\u62A5\u8B66&\u4E8B\u4EF6
+daServerState.unknown=\u672A\u77E5
+daServerState.suspended=\u6682\u505C\u7684
+pointMgr.writeOnly=\u53EA\u5199
+pointMgr.readOnly=\u5236\u5EA6
+opcServerDiscovery.dataAccess=\u6570\u636E\u8BBF\u95EE
+pointMgr.access=\u8BBF\u95EE
+daServerState.failed=\u5931\u8D25
+proxyExt.outOfRange=\u8D85\u51FA\u4E86\u8303\u56F4
+pointMgr.opcName=OPC \u540D\u79F0
+daServerState.noConfig=\u6CA1\u6709\u914D\u7F6E
+daServerState.test=\u6D4B\u8BD5
+daServerState.commFault=\u901A\u4FE1\u5931\u8D25
+opcServerDiscovery.gettingServerListFor=\u6B63\u5728\u83B7\u53D6\u670D\u52A1\u5668\u5217\u8868
+daServerState.running=\u6B63\u5728\u8FD0\u884C
+deviceMgr.versionIndependentProgramId=\u7248\u672C\u4E0D\u4F9D\u8D56\u4E8EProgram ID

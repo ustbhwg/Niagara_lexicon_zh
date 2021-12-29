@@ -1,0 +1,16 @@
+#
+#Tue Dec 12 13:50:51 CST 2017
+commands.browse.description=\u5728\u6D4F\u89C8\u5668\u4E2D\u6253\u5F00\u4F1A\u5458\u7684IP\u5730\u5740
+member.columnTitle.subnetNode=\u5B50\u7F51\u8282\u70B9
+member.columnTitle.natIpAddress=nat Ip \u5730\u5740
+invalidIp=Ip\u5730\u5740\u65E0\u6548\u3002\n\u67E5\u770BTcpIpService\u7684\u6709\u6548ip\u5730\u5740\u3002
+member.columnTitle.ipUcPort=Ip \u7AEF\u53E3
+member.columnTitle.domainId=\u57DF Id
+member.columnTitle.routerType=\u8DEF\u7531\u5668\u7C7B\u578B
+commands.browse.label=\u6D4F\u89C8
+member.columnTitle.neuronId=\u795E\u7ECF\u5143Id
+member.columnTitle.faultCause=\u6545\u969C\u539F\u56E0
+member.columnTitle.nodeType=\u8282\u70B9\u7C7B\u578B
+member.columnTitle.subnetMask=\u5B50\u7F51\u63A9\u7801
+member.columnTitle.ipUcAddress=Ip \u5730\u5740
+member.columnTitle.groupMask=\u7EC4\u7F51\u63A9\u7801

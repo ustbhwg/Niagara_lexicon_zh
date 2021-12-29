@@ -1,0 +1,19 @@
+#
+#Mon Dec 11 18:38:11 CST 2017
+BasicCommandMappings.displayName=\u57FA\u672C\u7684\u547D\u4EE4\u56FE\u8868
+replicateReceive.label=\u91CD\u590D\u63A5\u6536
+includeNode.label=\u5305\u62EC\u7684\u8282\u70B9
+zwaveInclusionOptions.timeoutLabel=\u8D85\u65F6
+activate.label=\u6FC0\u6D3B
+excludeNode.label=\u4E0D\u5305\u62EC\u7684\u8282\u70B9
+AssociationCount.displayName=\u5173\u8054\u7684\u8D26\u6237
+BasicUse.displayName=\u57FA\u672C\u4F7F\u7528
+zwaveExclusionOptions.timeoutLabel=\u8D85\u65F6
+transferPrimary.label=\u8F6C\u79FB\u57FA\u672C\u7684
+scanForDevices.label=\u626B\u63CF\u8BBE\u5907
+replaceFailedNode.label=\u66FF\u6362\u5931\u8D25\u7684\u8282\u70B9
+optimizeNetwork.label=\u6700\u4F18\u5316\u7F51\u7EDC
+zwaveInclusionOptions.networkWideLabel=\u7F51\u7EDC\u8303\u56F4
+excludeFailedNode.label=\u4E0D\u5305\u62EC\u5931\u8D25\u7684\u8282\u70B9
+BasicDeviceEnum.displayName=\u57FA\u672C\u7684\u8BBE\u5907\u5217\u8868
+ZWaveInclusionOptions.label=\u8282\u70B9\u5305\u62EC\u7684\u9009\u9879

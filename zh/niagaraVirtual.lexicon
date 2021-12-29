@@ -1,0 +1,16 @@
+#
+#Wed Nov 22 18:28:22 CST 2017
+niagaraVirtualCompCheckActions=\u68C0\u67E5\u64CD\u4F5C
+niagaraVirtualCompInfo=Virtual \u4FE1\u606F
+niagaraVirtualCache.remove=\u5220\u9664
+slotName=Slot\u540D\u79F0
+lastFailureCause=\u662FFailure Cause
+niagaraVirtualCache.removeMsg=\u60A8\u786E\u5B9A\u8981\u5220\u9664\u9009\u5B9A\u7684\u7F13\u5B58\u9879\uFF1F
+niagaraVirtualCache.selectAll=\u5168\u9009
+stationName=Station\u540D\u79F0
+virtualsEnabled=\u542F\u7528virtuals
+niagaraVirtualCacheView.niagaraVirtualCache=Niagara Virtual\u7F13\u5B58
+returnTypeSpec=\u8FD4\u56DEType Spec
+slotDisplayName=Slot\u663E\u793A\u540D\u79F0
+slotType=Slot\u7C7B\u578B
+path=\u8DEF\u5F84

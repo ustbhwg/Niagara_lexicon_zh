@@ -1,0 +1,10 @@
+#
+#Thu Dec 14 13:52:23 CST 2017
+ModbusTcpNetwork.displayName=Modbus Tcp \u7F51\u7EDC
+ModbusTcpDeviceManager.displayName=Modbus Tcp \u8BBE\u5907\u7BA1\u7406\u5668
+ModbusTcpDevice.displayName=Modbus Tcp \u8BBE\u5907
+ModbusTcpGatewayDeviceFolder.displayName=Modbus\u7F51\u5173\u8BBE\u5907\u6587\u4EF6\u5939
+SocketStatusEnum.displayName=Socket \u72B6\u6001\u679A\u4E3E
+ModbusTcpDeviceFolder.displayName=Modbus Tcp\u8BBE\u5907\u6587\u4EF6\u5939
+ModbusTcpGatewayDeviceManager.icon=Modbus Tcp \u7F51\u5173\u8BBE\u5907\u7BA1\u7406\u5668
+ModbusTcpGatewayDevice.displayName=Modbus Tcp\u7F51\u5173\u8BBE\u5907

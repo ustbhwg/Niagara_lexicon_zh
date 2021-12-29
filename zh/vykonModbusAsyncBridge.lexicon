@@ -1,0 +1,4 @@
+#
+#Tue Dec 12 20:03:25 CST 2017
+ModbusAsyncTcpBridge.displayName=Modbus \u5F02\u6B65 Tcp \u6865
+ModbusAsyncNetworkBridge.displayName=Modbus\u5F02\u6B65\u7F51\u6865

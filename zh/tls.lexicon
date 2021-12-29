@@ -1,0 +1,26 @@
+#
+#Wed Dec 06 11:13:04 CST 2017
+pointList.get=\u83B7\u53D6\u5217\u8868
+alarmList.selectall=\u9009\u62E9\u6240\u6709
+alarmList.get=\u66F4\u65B0\u62A5\u8B66
+deviceCommands.AlarmReset=\u62A5\u8B66\u91CD\u7F6E
+deviceCommands.LearnVisbility=\u5B66\u4E60\u53EF\u89C1\u6027
+objectCommands.AlarmAck=\u62A5\u8B66\u786E\u8BA4
+notificationClass.update=\u5E94\u7528
+panelList.cancel=\u53D6\u6D88
+pointList.create=\u521B\u5EFA
+pointList.creategx=\u521B\u5EFAGx\u9875\u9762
+objectCommands.AlarmClear=\u62A5\u8B66\u6E05\u9664
+pointList.selectall=\u9009\u62E9\u6240\u6709
+deviceCommands.updateItems=\u66F4\u65B0
+alarmList.clear=\u6E05\u9664
+deviceCommands.create=\u521B\u5EFA
+objectCommands.AlarmReset=\u62A5\u8B66\u91CD\u7F6E
+notificationClass.delete=\u5220\u9664
+notificationClass.new=\u65B0\u5EFA
+alarmList.acknowledge=\u786E\u8BA4
+alarmList.reset=\u91CD\u7F6E
+notificationClass.modify=\u4FEE\u6539
+deviceCommands.AlarmClear=\u62A5\u8B66\u6E05\u9664
+deviceCommands.updateAlarms=\u66F4\u65B0\u62A5\u8B66
+deviceCommands.AlarmAck=\u62A5\u8B66\u786E\u8BA4

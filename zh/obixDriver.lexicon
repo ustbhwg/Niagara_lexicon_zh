@@ -1,0 +1,7 @@
+#
+#Fri Nov 24 20:18:22 CST 2017
+ObjectToObix.displayName=\u5BF9\u8C61\u5230oBIX
+deviceMgr.address=\u5730\u5740
+ObjectToObix.icon=module\://icons/x16/obix.png
+help.guide.base=module\://docObix/doc
+ErrorMsg.enumRange=\u70B9\u672A\u5B9A\u4E49\u8303\u56F4

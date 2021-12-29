@@ -1,0 +1,6 @@
+#
+#Thu Dec 14 13:40:55 CST 2017
+ModbusAsyncNetwork.displayName=Modbus\u5F02\u6B65\u7F51\u7EDC
+ModbusAsyncDeviceFolder.displayName=Modbus\u5F02\u6B65\u8BBE\u5907\u6587\u4EF6\u5939
+ModbusAsyncDevice.displayName=Modbus\u5F02\u6B65\u8BBE\u5907
+ModbusAsyncDeviceManager.displayName=Modbus\u5F02\u6B65\u8BBE\u5907\u7BA1\u7406\u5668

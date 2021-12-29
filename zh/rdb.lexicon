@@ -1,0 +1,26 @@
+#
+#Tue Nov 28 16:15:50 CST 2017
+rdb.rdbSecuritySettings.blankPassKey.message=\u65B0\u7684\u5BC6\u5319\u4E0D\u80FD\u4E3A\u7A7A
+rdb.wizard.step2.timezone.description=\u9009\u62E9\u8981\u66F4\u65B0\u5230UTC\u7684\u6570\u636E\u5E93
+rdb.wizard.step2.timezone.title=\u65F6\u533A\u66F4\u65B0 - \u9009\u62E9\u6570\u636E\u5E93
+rdb.rdbSecuritySettings.samePassKey.message=\u65B0\u7684\u5BC6\u5319\u548C\u5F53\u524D\u7684\u5BC6\u5319\u4E0D\u80FD\u76F8\u540C
+rdb.rdbSecuritySettings.restartStation.title=\u91CD\u542F\u7AD9\u70B9
+rdb.wizard.step1.timezoneCbLabel=\u5C06\u65F6\u95F4\u6233\u5217\u66F4\u65B0\u4E3AUTC\uFF08\u534F\u8C03\u4E16\u754C\u65F6\uFF09
+rdb.passwordCipherException.message=\u627E\u5230\u635F\u574F\u7684\u8BB0\u5F55\uFF0C\u8981\u66F4\u6B63\u5B83\uFF0C\u8BF7\u70B9\u51FB\u5982\u4E0B\u8DEF\u5F84 System/Controller Setup->Miscellaneous->Server Maintenance \u4E2D\u7684 GetInvalidPins \u6309\u94AE
+rdb.rdbSecuritySettings.restartStation.message=\u5BC6\u5319\u66F4\u6539\uFF0C\u91CD\u542F\u7AD9\u70B9
+rdb.wizard.step1.title=\u9009\u62E9\u66F4\u65B0\u7A0B\u5E8F
+rdb.wizard.step3.timezone.description=\u6307\u5B9A\u7528\u4E8E\u5B58\u50A8\u6570\u636E\u5E93\u65F6\u95F4\u6233\u7684\u5F53\u524D\u7B56\u7565
+rdb.wizard.step2.unicode.description=\u9009\u62E9\u8981\u66F4\u65B0\u5230UTF-8\uFF08\u7EDF\u4E00\u7801\uFF09\u7684\u6570\u636E\u5E93
+rdb.wizard.step3.unicode.description=\u67E5\u770B\u66F4\u65B0\u8FC7\u7A0B\u7684\u8FDB\u5EA6
+rdb.wizard.step3.timezone.title=\u65F6\u533A\u66F4\u65B0 - \u65F6\u95F4\u6233\u5B58\u50A8\u7B56\u7565
+rdb.wizard.dialog.title=\u6570\u636E\u5E93\u66F4\u65B0\u5411\u5BFC
+rdb.wizard.step4.timezone.description=\u67E5\u770B\u66F4\u65B0\u8FC7\u7A0B\u7684\u8FDB\u5EA6
+rdb.wizard.step1.description=\u9009\u62E9\u66F4\u65B0\u8FC7\u7A0B\u4EE5\u9488\u5BF9\u6570\u636E\u5E93\u8868\u8FD0\u884C
+rdb.rdbSecuritySettings.incorrectPassword.message=\u7528\u6237\u5BC6\u7801\u4E0D\u6B63\u786E
+rdb.rdbSecuritySettings.noMatchPassKey.message=\u65B0\u7684\u548C\u786E\u8BA4\u7684\u5BC6\u94A5\u4E0D\u5339\u914D
+rdb.rdbSecuritySettings.encoderException.message=\u65E0\u6CD5\u521D\u59CB\u5316\u7F16\u7801\u5668
+rdb.wizard.step2.unicode.title=\u7EDF\u4E00\u7801\u66F4\u65B0 - \u9009\u62E9\u6570\u636E\u5E93
+rdb.wizard.step4.timezone.title=\u65F6\u533A\u66F4\u65B0 - \u67E5\u770B\u7ED3\u679C
+rdb.wizard.step3.unicode.title=\u7EDF\u4E00\u7801\u66F4\u65B0 - \u67E5\u770B\u7ED3\u679C
+rdb.wizard.step1.unicodeCbLabel=\u5C06\u6587\u672C\u5217\u7F16\u7801\u66F4\u65B0\u4E3AUTF-8\uFF08\u7EDF\u4E00\u7801\uFF09
+rdb.wizard.label=\u66F4\u65B0\u5411\u5BFC

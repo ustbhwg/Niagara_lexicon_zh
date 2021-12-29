@@ -1,0 +1,6 @@
+#
+#Thu Dec 14 13:47:16 CST 2017
+ModbusSlaveDevice.displayName=Modbus\u4ECE\u7AD9\u8BBE\u5907
+ModbusSlaveDeviceFolder.displayName=Modbus\u4ECE\u7AD9\u6587\u4EF6\u5939
+ModbusSlaveNetwork.displayName=Modbus\u4ECE\u7AD9\u7F51\u7EDC
+ModbusSlaveDeviceManager.displayName=Modbus\u4ECE\u7AD9\u8BBE\u5907\u7BA1\u7406\u5668

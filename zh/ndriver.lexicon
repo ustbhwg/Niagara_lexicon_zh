@@ -1,0 +1,32 @@
+#
+#Thu Dec 14 16:48:56 CST 2017
+HttpCommConfig.displayName=Http \u901A\u4FE1\u914D\u7F6E
+INDiscoveryHost.displayName=IN \u67E5\u627E\u4E3B\u673A
+INPollable.displayName=IN \u53EF\u8F6E\u8BE2
+TcpCommConfig.displayName=Tcp \u901A\u4FE1\u914D\u7F6E
+CommConfig.displayName=\u901A\u4FE1\u914D\u7F6E
+Address.displayName=\u5730\u5740
+INDeviceMgrAgent.displayName=IN \u8BBE\u5907\u8FC1\u79FB\u4EE3\u7406\u4EBA
+NDiscoveryPreferences.displayName=N \u67E5\u627E\u504F\u597D
+NUsernameAndPassword.displayName=N \u7528\u6237\u540D\u548C\u5BC6\u7801
+SpyReset.displayName=\u91CD\u7F6E Spy
+INDiscoveryObject.displayName=IN \u67E5\u627E\u5151\u73B0
+NDeviceManager.displayName=\ N \u8BBE\u5907\u7BA1\u7406\u5668
+IpAddress.displayName=Ip \u5730\u5740
+NPointMgrAgent.displayName=NPoint \u8FC1\u79FB\u4EE3\u7406\u4EBA
+SerialCommConfig.displayName=\u4E32\u53E3\u901A\u4FE1\u914D\u7F6E
+INPointMgrAgent.displayName=INPoint \u8FC1\u79FB\u4EE3\u7406\u4EBA
+INDiscoveryGroup.displayName=IN \u67E5\u627E\u7EC4
+NDeviceMgrAgent.displayName=N \u8BBE\u5907\u8FC1\u79FB\u4EE3\u7406\u4EBA
+NPollScheduler.displayName=N \u8F6E\u8BE2\u65F6\u95F4\u8868
+INDiscoveryIcon.displayName=IN \u67E5\u627E\u56FE\u6807
+NPointDeviceExt.displayName=NPoint \u8BBE\u5907\u6269\u5C55
+NProxyExt.displayName=N \u4EE3\u7406\u6269\u5C55
+noDiscoveredObjects=\u67E5\u627E\u6CA1\u6709\u8FD4\u56DE\u5BF9\u8C61
+commConfig.configError=\u901A\u4FE1\u53C2\u6570\u914D\u7F6E\u65E0\u6548
+UdpCommConfig.displayName=Udp\u901A\u4FE1\u914D\u7F6E
+NPointFolder.displayName=NPoint \u6587\u4EF6\u5939
+NDiscoveryGroup.displayName=N \u67E5\u627E\u7EC4
+mgrJobExpired=\u6CE8\u610F\uFF1A\u4E0D\u80FD\u6062\u590D\u67E5\u627E job ,\u56E0\u4E3A\u8FD9\u4E2A job \u5DF2\u8FC7\u3002\u671F
+discoveryParameters=\u67E5\u627E\u53C2\u6570
+NPointManager.displayName=NPoint \u7BA1\u7406\u5668
